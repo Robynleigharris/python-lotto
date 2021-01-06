@@ -1,0 +1,5 @@
+persons name:lkpersons age:90persons results:1  number matched!
+lotto numbers [29, 41, 34, 10, 11, 39]
+shamepersons results:1  number matched!
+lotto numbers [29, 41, 34, 10, 11, 39]
+shame
